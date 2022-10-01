@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://oksanayur.github.io/csb-kspjqo/static/css/main.0dac0867.chunk.css",
+    "main.js": "https://oksanayur.github.io/csb-kspjqo/static/js/main.1ad47e4a.chunk.js",
+    "main.js.map": "https://oksanayur.github.io/csb-kspjqo/static/js/main.1ad47e4a.chunk.js.map",
+    "runtime-main.js": "https://oksanayur.github.io/csb-kspjqo/static/js/runtime-main.08cc897d.js",
+    "runtime-main.js.map": "https://oksanayur.github.io/csb-kspjqo/static/js/runtime-main.08cc897d.js.map",
+    "static/js/2.ccdcdeab.chunk.js": "https://oksanayur.github.io/csb-kspjqo/static/js/2.ccdcdeab.chunk.js",
+    "static/js/2.ccdcdeab.chunk.js.map": "https://oksanayur.github.io/csb-kspjqo/static/js/2.ccdcdeab.chunk.js.map",
+    "index.html": "https://oksanayur.github.io/csb-kspjqo/index.html",
+    "static/css/main.0dac0867.chunk.css.map": "https://oksanayur.github.io/csb-kspjqo/static/css/main.0dac0867.chunk.css.map",
+    "static/js/2.ccdcdeab.chunk.js.LICENSE.txt": "https://oksanayur.github.io/csb-kspjqo/static/js/2.ccdcdeab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08cc897d.js",
+    "static/js/2.ccdcdeab.chunk.js",
+    "static/css/main.0dac0867.chunk.css",
+    "static/js/main.1ad47e4a.chunk.js"
+  ]
+}
